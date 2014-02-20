@@ -5,8 +5,7 @@
 #include <string>
 using std::string;
 using std::vector;
-using std::cin;
-using std::cout;
+using namespace std;
 
 int main()
 {
